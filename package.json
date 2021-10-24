@@ -1,0 +1,19 @@
+{
+  "name": "pantryprism",
+  "version": "1.0.0",
+  "description": "Pantry management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancebrown42/pantryprism.git"
+  },
+  "author": "lecktech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lancebrown42/pantryprism/issues"
+  },
+  "homepage": "https://github.com/lancebrown42/pantryprism#readme"
+}
