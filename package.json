@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lancebrown42/pantryprism/issues"
   },
-  "homepage": "https://github.com/lancebrown42/pantryprism#readme"
+  "homepage": "https://github.com/lancebrown42/pantryprism#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
